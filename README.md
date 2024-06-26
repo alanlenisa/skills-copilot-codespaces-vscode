@@ -21,7 +21,7 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
   Define terms and link to docs.github.com.
 -->
 
-## Step 4: Using comments to generate code with Copilot
+## Step 4-final: Using comments to generate code with Copilot
 
 _Nicely done utilizing the Copilot tab!_ :partying_face:
 
